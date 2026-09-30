@@ -1,6 +1,8 @@
-<h1 align="center">
-  Kumusta, fellow <code>&lt;developers/&gt;</code>
-</h1>
+<p align="center">
+  <strong> 
+    <font size="6">Kumusta, fellow <code>&lt;developers/&gt;!</code></font>
+  </strong>
+</p>
 
 <p align="center">
   Web developer building from the home of Jollibee
